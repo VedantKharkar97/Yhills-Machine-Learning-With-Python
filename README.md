@@ -1,7 +1,7 @@
 # Machine Learning Intern @Yhills Edutech
 
-# Project 1: Exploratory Data Analysis of the Hotel Booking Dataset
-# Dataset : https://raw.githubusercontent.com/Premalatha-success/-Practice/main/hotel_bookings.csv
+## Project 1: Exploratory Data Analysis of the Hotel Booking Dataset
+### Dataset : https://raw.githubusercontent.com/Premalatha-success/-Practice/main/hotel_bookings.csv
 ### We used the dataset that contains data about hotel bookings
 ### We cleaned and preprocessed the data and then we performed the exploratory data analysis to extract information from the data
 
