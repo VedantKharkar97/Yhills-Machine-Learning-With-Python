@@ -22,3 +22,5 @@
 ### 7. Couple (or 2 adults) is the most popular accommodation type. So hotels can make arrangement plans accordingly
 
 ### **We then performed feature selection and feature engineering, and then made the predictive model using the Decision Tree to predict whether our customer/guest will cancel the booking or not. And we achieved 85.7% accuracy.**
+
+## Project 2: House Pricing Using Linear Regression
